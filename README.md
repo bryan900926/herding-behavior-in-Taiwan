@@ -3,3 +3,4 @@
 2. Grouping the Data in SQL: Since I am interested in the herding effect at the industry level, I group stocks by industry in SQL and calculate their overall returns.
 3. Running the Rolling VAR Regression: Finally, I perform a rolling VAR regression to analyze the results.
 ![Screenshot](sum_coef_tw.png)
+[View Full Report (PDF)](Rplot02.pdf)
